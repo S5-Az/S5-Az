@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Deployment <br>🤝 I’m looking for help with open source contributions <br>🌱 I’m currently learning K8s<br>💬 Ask me about cloud <br>⚡ Fun fact co-author of the research paper ARIA: An Agentic AI Architecture for Adaptive Reasoning, Tool-Oriented Execution, and Autonomous Multi-Domain System Integration.<br>  👀published paper: https://jsiar.com/JSIAR-A-26-04850.html
+🔭 I’m currently working on Deployment <br>🤝 I’m looking for help with open source contributions <br>🌱 I’m currently learning K8s<br>💬 Ask me about cloud <br>⚡co-author of the research paper ARIA: An Agentic AI Architecture for Adaptive Reasoning, Tool-Oriented Execution, and Autonomous Multi-Domain System Integration.<br>  👀Have a  look: https://jsiar.com/JSIAR-A-26-04850.html
 
 
 ## 🌐 Socials:
