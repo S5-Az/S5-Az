@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Deployment <br>🤝 I’m looking for help with open source contributions <br>🌱 I’m currently learning K8s<br>💬 Ask me about cloud
+//future ma add krna ha 
 <!-- <br>⚡co-author of the research paper ARIA: An Agentic AI Architecture for Adaptive Reasoning, Tool-Oriented Execution, and Autonomous Multi-Domain System Integration.<br> 👀Have a Look: https://jsiar.com/JSIAR-A-26-04850.html -->
 
 
@@ -13,7 +14,7 @@
 ![](https://streak-stats.demolab.com/?user=S5-Az&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=S5-Az&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- ## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies //future update krna ha
 ![](https://github-profile-trophy.vercel.app/?username=S5-Az&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
